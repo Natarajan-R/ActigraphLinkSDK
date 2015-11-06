@@ -4,7 +4,7 @@ PODS:
   - CocoaLumberjack/Core (1.9.2)
   - CocoaLumberjack/Extensions (1.9.2):
     - CocoaLumberjack/Core
-  - JSONModel (1.1.0)
+  - JSONModel (1.1.2)
 
 DEPENDENCIES:
   - CocoaLumberjack (~> 1.8)
@@ -12,6 +12,6 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
-  JSONModel: ec77e9865236a7a09d9cf7668df6b4b328d9ec1d
+  JSONModel: 216584d0311b053ff714f1d6cb700dbf890847bc
 
-COCOAPODS: 0.38.2
+COCOAPODS: 0.39.0

@@ -191,8 +191,8 @@ The following are other responses that can be received based off the various sta
 > 5 - Device Connection Failed  
 > 6 - Device Is Busy  
 > 7 - Wireless Transfer Error  
-> 8 - Epoch Download Error
-> 9 - Date Format Error
+> 8 - Epoch Download Error  
+> 9 - Date Format Error 
 
 ## Sample Application
 

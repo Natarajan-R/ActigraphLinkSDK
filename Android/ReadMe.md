@@ -189,9 +189,10 @@ The following are other responses that can be received based off the various sta
 > 3 - Unrecognized Configuration  
 > 4 - SDK Access Disabled  
 > 5 - Device Connection Failed  
-> 6 - Wireless Tranfer Error  
-> 7 - Epoch Download Error  
-> 8 - Date Format Error  
+> 6 - Device Is Busy  
+> 7 - Wireless Transfer Error  
+> 8 - Epoch Download Error
+> 9 - Date Format Error
 
 ## Sample Application
 

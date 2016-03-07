@@ -5,6 +5,8 @@
 - **ARC only, iOS8+**
 - **SystemConfiguration.framework**
 - **[JSONModel](https://github.com/icanzilb/JSONModel) Library**
+- [Link device firmware >= v1.3.0](http://www.actigraphcorp.com/support/activity-monitors/gt9x-link/)
+- CentrePoint Study Admin System Account
 
 ## Installation
 

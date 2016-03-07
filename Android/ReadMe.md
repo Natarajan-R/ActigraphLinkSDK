@@ -1,12 +1,11 @@
 # ActiGraph Link SDK - ALPHA
 
-## ALPHA Release
-This release of the Link SDK is currently in ALPHA state.  Currently, the SDK requires that the LINK device run a specific internal release of Link firmware.  For the BETA release, Link firmware will be public but will require that initialization of the device be handled by ActiGraph's CentrePoint study admin system (subscription required). 
-
 ## Requirements
 
 - **Android OS 4.3**
 - **API Level 18**
+- [Link device firmware >= v1.3.0](http://www.actigraphcorp.com/support/activity-monitors/gt9x-link/)
+- CentrePoint Study Admin System Account
 
 ## Installation
 

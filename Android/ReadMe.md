@@ -1,4 +1,4 @@
-# ActiGraph Link SDK - ALPHA
+# ActiGraph Link SDK
 
 ## Requirements
 

@@ -4,8 +4,8 @@
 
 - **Android OS 4.3**
 - **API Level 18**
-- [Link device firmware >= v1.3.0](http://www.actigraphcorp.com/support/activity-monitors/gt9x-link/)
-- CentrePoint Study Admin System Account
+- [**Link device firmware >= v1.3.0**](http://www.actigraphcorp.com/support/activity-monitors/gt9x-link/)
+- **CentrePoint Study Admin System Account**
 
 ## Installation
 

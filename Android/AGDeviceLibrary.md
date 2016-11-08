@@ -6,7 +6,7 @@ This class provides the API methods necessary for interacting with ActiGraph act
 
 #### `public static AGDeviceLibrary getInstance()`
 
-Method used to obtain a reference to the AGDeviceLibray instance.
+Method used to obtain a reference to the AGDeviceLibrary instance.
 
  * **Returns:** AGDeviceLibrary
 
